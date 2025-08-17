@@ -40,13 +40,13 @@ Computer Science Student • C/C++ • Java • Web & Backend • Game Dev Enthu
 - Frameworks/Libraries: React, Node.js/Express, Spring, SQLite/PostgreSQL
 -->
 
-## Featured work
+<!--## Featured work
 Here are a few things I’m proud of (more coming soon):
 
 - Game Prototype — TODO: add title, short description, and link
 - Web App — TODO: add title, short description, and link
 - Systems/Algo Project — TODO: add title, short description, and link
-
+-->
 <!-- Tip: Pin your repos from your GitHub profile for extra visibility. -->
 
 ## GitHub stats
