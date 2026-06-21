@@ -8,7 +8,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=G0602&style=for-the-badge&color=059669)
 
 <p align="center">
-  A passionate and detail-oriented Computer Science undergraduate with a solid GPA of <b>3.58/4.00</b>. I specialize in building reliable, high-performance backends, distributed consensus algorithms, and automated CI/CD DevOps workflows.
+  A passionate and detail-oriented Computer Science undergraduate. I specialize in building reliable, high-performance backends, distributed consensus algorithms, and automated CI/CD DevOps workflows.
 </p>
 
 </div>
